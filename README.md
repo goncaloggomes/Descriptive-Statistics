@@ -77,3 +77,6 @@ kurtosis is another useful tool when it comes to quantify the shape of a distrib
 
 **The kurtosis values determine the volume of the outliers only.**
 Kurtosis is calculated by raising the average of the standardized data to the fourth power. If we raise any standardized number (less than 1) to the 4th power, the result would be a very small number, somewhere close to zero. Such a small value would not contribute much to the kurtosis. The conclusion is that the values that would make a difference to the kurtosis would be the ones far away from the region of the peak, put it in other words, the outliers.
+
+**The Jupyter notebook - IPython**
+In the next section, we will be giving short numeric stats summaries concerning the different measures of central tendency and dispersion of the dataset.
