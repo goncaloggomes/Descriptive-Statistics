@@ -1,6 +1,9 @@
 # Descriptive-Statistics
 ### An easy descriptive statistics approach to summarize the numeric and categoric data variables for every Exploratory Data Analysis process.
 
+- ipynb code [here](https://github.com/goncaloggomes/Descriptive-Statistics/blob/main/Descriptive_stats_expectations_reality.ipynb)
+- MEDIUM ARTICLE [here](https://towardsdatascience.com/descriptive-statistics-expectations-vs-reality-exploratory-data-analysis-eda-8336b1d0c60b)
+
 This notebook presents the descriptive statistics of the numerical and categorical variables through the measures of central tendency and measures of spread.
 
 Statistics is divided into two major areas:
@@ -80,3 +83,6 @@ Kurtosis is calculated by raising the average of the standardized data to the fo
 
 **The Jupyter notebook - IPython**
 In the next section, we will be giving short numeric stats summaries concerning the different measures of central tendency and dispersion of the dataset.
+
+- ipynb code [here](https://github.com/goncaloggomes/Descriptive-Statistics/blob/main/Descriptive_stats_expectations_reality.ipynb)
+- MEDIUM ARTICLE [here](https://towardsdatascience.com/descriptive-statistics-expectations-vs-reality-exploratory-data-analysis-eda-8336b1d0c60b)
